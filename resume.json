@@ -1,0 +1,84 @@
+{
+  "name": "Shoohel",
+  "title": "Creative Developer & Designer",
+  "contact": {
+    "email": "shoohel876@gmail.com",
+    "phone": "+91 8732864917",
+    "social": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/zzz_anshu_zzz/"
+      }
+    ],
+    "location": "India"
+  },
+  "summary": "Motivated and detail-oriented individual with a strong foundation in computer applications and creative problem-solving. Experienced in both technical and design domains, passionate about building user-focused solutions and continuous learning.",
+  "skills": [
+    {
+      "category": "App Development",
+      "details": "Proficient in building cross-platform mobile applications using React Native with a focus on clean UI and efficient performance. Experienced in creating RESTful APIs and backend services using Node.js and Express."
+    },
+    {
+      "category": "Graphic Designing",
+      "details": "Designing commercial flyers and banners for events and startups."
+    },
+    {
+      "category": "Web Development",
+      "details": "Building responsive, fast, and modern websites tailored to user needs and brands."
+    }
+  ],
+  "experience": [
+    {
+      "title": "UI/UX Designer",
+      "company": "Verified (Startup)",
+      "description": ""
+    },
+    {
+      "title": "Graphic Design Intern",
+      "company": "Mug Designing Startup",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Higher Secondary",
+      "year": "2020 - 2021"
+    },
+    {
+      "degree": "Bachelors in Computer Application",
+      "year": "2022 - 2025"
+    },
+    {
+      "degree": "Graphic Designing",
+      "institution": "Self Taught"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AskMyPC",
+      "description": "AskMyPC is a local desktop assistant powered by Google's Gemini Pro 2.5, enabling users to control their Windows PC using natural language queries.",
+      "technologies": ["Gemini Pro 2.5", "Local Assistant", "Natural Language Processing"],
+      "url": "https://github.com/Dead-Pixel-cmd/askmypc/tree/main/AskMyPC"
+    }
+  ],
+  "designs": [
+    {
+      "name": "AI Event Flyer",
+      "tool": "Photoshop",
+      "image": "Img/works/w1.png"
+    },
+    {
+      "name": "Geek Camp Flyer",
+      "tool": "Photoshop",
+      "image": "Img/works/w2.png"
+    },
+    {
+      "name": "Chess Competition Flyer",
+      "tool": "Photoshop",
+      "image": "Img/works/w3.jpg"
+    }
+  ],
+  "cv": {
+    "file": "Img/cv.png"
+  }
+}
