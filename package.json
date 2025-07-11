@@ -1,0 +1,14 @@
+{
+  "name": "chat-backend-vercel",
+  "version": "1.0.0",
+  "description": "Vercel-compatible chat backend",
+  "main": "api/chat.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
