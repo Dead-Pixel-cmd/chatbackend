@@ -60,7 +60,7 @@
       "description": "AskMyPC is a local desktop assistant powered by Google's Gemini Pro 2.5, enabling users to control their Windows PC using natural language queries.",
       "technologies": ["Gemini Pro 2.5", "Local Assistant", "Natural Language Processing"],
       "url": "https://github.com/Dead-Pixel-cmd/askmypc/tree/main/AskMyPC"
-    }
+    },
     {
       "name": "SDR Agent",
       "description": "This is a multi-agent SDR (Sales Development Rep) workflow built with LangChain, Gemini, and Serper.dev. It takes a list of leads, researches them, writes a personalized email, and reviews it — all autonomously.",
